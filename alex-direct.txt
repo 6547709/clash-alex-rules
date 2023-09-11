@@ -1,3 +1,0 @@
-payload:
-  - '+.guoqiangli.com'
-  - '+.vmware.com'
